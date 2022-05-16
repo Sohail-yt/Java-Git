@@ -4,7 +4,7 @@ class ifStatement {
           int b=65;
           int c=95;
           if(a>b & a>c){
-               System.out.printf("a=%d is bigger",b);
+               System.out.printf("a=%d is bigger",a);
           }
           else if(b>a & b>c){
                System.out.printf("b=%d is bigger",b);
